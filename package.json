@@ -1,0 +1,26 @@
+{
+  "name": "Note-taker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "devstart": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aadi1988/Note-taker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aadi1988/Note-taker/issues"
+  },
+  "homepage": "https://github.com/aadi1988/Note-taker#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4",
+    "uuid": "^8.3.0"
+  }
+}
