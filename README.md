@@ -1,7 +1,7 @@
 # Note Taker
   [![License](<https://img.shields.io/static/v1?label=License&message=MIT&color=green>)]()
 ## Description
-A way to add and save notes
+A way to add and save notes.\
 Link to the website: https://blooming-brushlands-09426.herokuapp.com/
 ## Table of contents
 [Installation](#installation-instructions)  
